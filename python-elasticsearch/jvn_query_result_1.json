@@ -1,0 +1,127 @@
+all are false 
+
+{
+    "hits": {
+        "hits": [
+            {
+                "_score": 10.556887,
+                "_type": "my_type",
+                "_id": "AWUKfRrrtWc2ureYEEic",
+                "_source": {
+                    "topic": "Chinh tri Xa hoi",
+                    "article": " Đi Philippines tham dự SEA Games 23 \r\nVới thời gian 5 ngày 4 đêm tại đây, khách sẽ đi tham quan khu trung tâm thương mại Makati, khu phố Tàu, nhà thờ cổ Saint Agustin. \r\nĐặc biệt du khách sẽ trực tiếp tham gia lễ khai mạc SEA Games; tham quan trung tâm Track &amp; Field, trung tâm báo chí quốc tế... \r\nNhững ngày kế tiếp, du khách sẽ xem thi đấu môn điền kinh, Billiard &amp; Snooker, bóng chuyền nữ Bowling… Nếu có nhu cầu xem các trận bóng đá nam, du khách phải đăng ký trước để công ty liên hệ tổ chức. \r\nTrước khi kết thúc chuyến đi, du khách sẽ đến mua sắm tại các trung tâm và tìm được những món quà dễ thương cho người thân. Giá tour: 675 USD/khách. \r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 9.797216,
+                "_type": "my_type",
+                "_id": "AWUKg4gotWc2ureYEIVO",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Xác định 30 đội tuyển quốc gia dự SEA Games 23 \r\nHiện nay, 30 trong tổng số 36 đội tuyển thể thao quốc gia với khoảng 1.300 VĐV và HLV đã hoàn thành công tác tuyển chọn, và bắt đầu bước vào \"chiến dịch\" SEA Games 2005. Chỉ còn một số đội tuyển đặc thù như bóng đá, bóng chuyền chưa được thành lập.\r\nBên cạnh việc tổ chức tập luyện tại các Trung tâm huấn luyện thể thao quốc gia, trường ĐH TDTT 1 ở Hà Nội và TP HCM, gần 100 tuyển thủ quốc gia của các môn thể dục dụng cụ, võ vật, bơi vẫn đang tập huấn dài hạn tại Trung Quốc. \r\nĐội tuyển khiêu vũ thể thao cũng đã có những thành viên đầu tiên khi đôi Hải Anh - Hồng Thi được Ủy ban TDTT chính thức công nhận tuyển thủ quốc gia từ 1/1/2005. \r\nHiện Ủy ban TDTT đang hoàn chỉnh đề án riêng cho SEA Games 23 để trình Chính phủ xin bổ sung kinh phí, nhằm đảm bảo những điều kiện tốt nhất về tập huấn, thi đấu quốc tế, chăm sóc dinh dưỡng và y học thể thao.\r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 9.797216,
+                "_type": "my_type",
+                "_id": "AWUKiHDhtWc2ureYEK19",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "'Chúng ta là một', ca khúc chính thức của SEA Games 23\r\nChào mừng các bạn đến với đất nước chúng tôi. Để chứng kiến và tận hưởng những điều tươi đẹp nhất. Để gặp gỡ với những con người thân thiện, và cùng vui vẻ. Đó là những câu mở đầu bài hát chính thức của Đại hội thể thao Đông Nam Á lần thứ 23 ở Philippines.\r\nVới Rene Nieva, một nhà thơ rất nổi tiếng tại Philippines, đảm trách phần lời, còn Jose Mari Chan, cây đại thụ trong làng nhạc sĩ, lo phần nhạc, bài hát Tất cả chúng ta là một (We are all just one) đã thực sự trở thành niềm tự hào của nước chủ nhà SEA Games 23.\r\nTrình bày ca khúc này trong lễ khai mạc tối chủ nhật tới (27/11) sẽ là ca sĩ nhí 9 tuổi, Julia Abueva - cháu gái của nghệ sĩ nhân dân Napoleon Abueva. Ngoài ra, tương tự như bài Vì một thế giới ngày mai của Việt Nam, bài hát cũng sẽ được phát trên hệ thống phát thanh và truyền hình quốc gia Philippines trong suốt thời gian diễn ra Đại hội.\r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 9.764271,
+                "_type": "my_type",
+                "_id": "AWUKh2_EtWc2ureYEKVG",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Philippines muốn loại bóng đá khỏi SEA Games 23\r\nDanh sách 22 môn thi đấu ưu tiên mà Ủy ban Olympic Philippines (POC) đưa ra chiều qua thiếu vắng rất nhiều môn thế mạnh của Việt Nam như karatedo, cử tạ, silat. Với mục tiêu giành vị trí cao tại SEA Games 2005, nước này đã đưa võ gậy, đua ngựa vào danh sách ban đầu, và loại bóng đá. \r\nSố môn thi đấu này thậm chí còn ít hơn số lượng môn mà Philippines đã tổ chức tại SEA Games 16 ở Manila cách đây 14 năm (28 môn). \r\nTuy nhiên, ý định loại bỏ bóng đá của Philippines là điều không thể chấp nhận được đối với các nước Đông Nam Á còn lại. Nước chủ nhà có quyền chọn môn, nhưng môn thi đấu phải có được sự thông qua của các nước tham dự. Ngày 5/3 tới, các nước sẽ có cơ hội tranh đấu đòi quyền cho các môn thế mạnh của mình tại Đại hội đồng thể thao Đông Nam Á họp tại Manila, Philippines. Vào tháng 11/2004, một năm trước ngày SEA Games 23 khởi tranh, số môn thi chính thức của Đại hội sẽ được gút. \r\nNguyên tắc chọn môn ở SEA Games: 2 môn bắt buộc của nhóm 1 (điền kinh, bơi); ít nhất 14 môn trong nhóm 2 (các môn thi đấu ở Olympic và ASIAD), tối đa 8 môn trong nhóm 3, các môn phổ biến ở khu vực. \r\nViệc không đưa bóng đá vào danh sách 22 môn ưu tiên có lẽ chỉ là chiến thuật vận động hành lang của Philippines, nhằm đưa những môn thể thao dân tộc của họ như võ gậy, bóng mềm vào SEA Games. Ban đầu, Ủy ban Olympic Philippines còn định đưa thêm nhiều món ăn thể thao \"đặc sắc\" với những cái tên rất lạ của nước này như kuntaw, dumog, jendo, dulac với quyết tâm thúc đẩy sự phát triển các môn thể thao dân tộc. \r\nNếu được chấp nhận thi đấu tại SEA Games, võ gậy có thể sẽ đem lại cho Philippines ít nhất 18 HC vàng trong tổng số 25 bộ huy chương. Môn võ này cũng đã được giới thiệu ở SEA Games 1991 tổ chức tại Manila, có sự tham gia tranh tài của số đoàn như Malaysia, Indonesia, Thái Lan, Singapore, Myanmar và Việt Nam. Nhưng tới giờ, ở Việt Nam, môn võ thuật này đã không còn được phát triển nữa. \r\nSự lựa chọn trên là dễ hiểu khi Philippines không hề giấu giếm mục tiêu xếp nhất toàn đoàn ở SEA Games 23, cơ hội mà họ đã chờ 14 năm. Năm 1991, khi làm chủ nhà của SEA Games 16, với 91 HC vàng, Philippines ngậm ngùi đứng thứ 2 khi chỉ kém Indonesia đúng 1 HC vàng. Tại SEA Games 16, họ đã tổ chức 28 môn. \r\n22 môn ưu tiên Philippines giới thiệu ở SEA Games 23\r\nBắn cung, võ gậy, bóng chày, billiards, boxing, bowling, cờ vua, khiêu vũ thể thao, đua ngựa, đấu kiếm, golf, thể dục, judo, rowing, bóng mềm, taekwondo, 3 môn phối hợp, vật, wushu, điền kinh và thể thao dưới nước. \r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKhAOvtWc2ureYEIkz",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "4 đội tham dự giải bóng đá nữ Tiền SEA Games 23\r\nHôm qua, BTC giải công bố 4 đội tham dự là tuyển Việt Nam, chủ nhà Than Cửa Ông, Ấn Độ và Đài Loan. Đây là giải truyền thống nhằm giúp các đội bóng ĐNÁ chuẩn bị cho SEA Games, tuy nhiên năm nay lại thiếu các đội tuyển khác trong khu vực tham dự.\r\nCác nữ cầu thủ Việt Nam chuẩn bị cho cuộc bảo vệ ngôi nữ hoàng bóng đá SEA Games. Ảnh: Anh Tuấn\r\nDiễn ra từ 2/10 đến 10/10 tại SVĐ Cửa Ông (Quảng Ninh), 4 đội tuyển Việt Nam, Than Cửa Ông, Ấn Độ và Đài Loan sẽ tham gia tranh tài. Đây là giải đấu nằm trong nội dung thi đấu của Liên đoàn bóng đá ĐNÁ (AFC). Giải được tổ chức với mục tiêu tạo cơ hội cho các nữ cầu thủ nữ tích lũy thêm kinh nghiệm và trau dồi chuyên môn, chuẩn bị cho SEA Games. BHL của đội tuyển nữ Việt Nam cũng đang hối hả chuẩn bị cho giải đấu số một khu vực vào cuối năm nay - đấu trường mà đội nữ của chúng ta là ĐKVĐ.\r\nTheo dự kiến, VTV3 sẽ tường thuật trực tiếp 2 trận là cuộc đối đầu trong trận khai mạc giữa đội chủ nhà Than Cửa Ông và tuyển Ấn Độ. Trận còn lại được phát trực tiếp là tuyển Việt Nam gặp Đài Loan trong ngày bế mạc. Lãnh đạo VTV3 cũng khẳng định họ sẽ cố gắng hết sức để phát băng những cặp đấu còn lại ngay vào chiều hôm sau.\r\nLịch thi đấu (dự kiến):\r\nNgày 2/10: 14h45: Than Cửa Ông - Ấn Độ ()Ngày 4/10: 14h30: Than Cửa Ông - ĐTVN Ngày 5/10: 14h30: Ấn Độ - Đài LoanNgày 7/10: 14h30: ĐTVN - Ấn ĐộNgày 8/10: 14h30: Than Cửa Ông - Đài LoanNgày 10/10: 14h15: Tuyển VN - Đài Loan ()\r\n(: VTV3 truyền hình trực tiếp)\r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKg4xztWc2ureYEIVv",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Một số tuyển thủ U23 bị tố cáo bán độ tại SEA Games 23 \r\nCơ quan điều tra đang thu thập thêm những chứng cứ về việc 4 cầu thủ tuyển U23 nhận tiền của đường dây cá độ bóng đá quốc tế trong trận bán kết gặp Malaysia. \r\nTừ những lời tố cáo ban đầu, cơ quan điều tra nhận định, trong thời gian diễn ra các trận đấu bóng đá nam tại SEA Games 23 có ít nhất 4 cầu thủ của đội tuyển bị nghi đã bán mình cho các ông trùm của một số đường dây cá độ bóng đá trong nước và quốc tế. Các tài liệu thể hiện, họ giao ước U23 Việt Nam sẽ chỉ thắng tuyển Myanmar với tỷ số sít sao 1-0; và hoà U23 Malaysia trong 90 phút thi đấu chính thức.\r\nVụ dàn xếp tỷ số trong trận đấu với đội Malaysia được phát hiện ngay trước giờ bóng lăn. Nhờ tin báo của một học trò cũng là thành viên đội tuyển, nhà cầm quân Alfred Riedl đã kịp thay đổi chiến thuật. Âm mưu trên bị phá sản.\r\nTheo một nguồn tin, do hoàn thành đúng \"kịch bản\" thắng 1-0 trước tuyển Myanmar, đường dây cá độ bóng đá quốc tế đã chia tiền cho những tuyển thủ này. Tuy nhiên, danh tính của họ chưa được tiết lộ.\r\nCơ quan điều tra cũng có chứng cứ về việc một số cầu thủ Việt Nam đã nhận tiền, để đội nhà thua trong một trận đấu bóng quốc tế, cách đây vài năm. Khoản này là 6 tỷ đồng.\r\nTheo Ban chuyên án, cùng với chiến dịch làm rõ các hành vi mờ ám, \"bán mình\" của các trọng tài trong làng bóng đá Việt Nam, cơ quan điều tra sẽ ráo riết điều tra về nghi án \"bán mình cho quỷ\" của một số cầu thủ U23. \r\nÝ kiến của bạn?\r\nVũ Tiến Thành đổ tội cho Nguyễn Thành Vinh(06/12/2005)\r\nCLB Đông Á sẽ không 'kháng án'(27/11/2005)\r\nTriệu tập Giám đốc Sở TDTT Cần Thơ ra Hà Nội(15/11/2005)\r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKhOoJtWc2ureYEJCX",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "'Bầu' Đức là trưởng đoàn bóng đá nam ở SEA Games 23\r\nChiều thứ bảy, đích thân Chủ tịch Liên đoàn bóng đá Việt Nam Nguyễn Trọng Hỷ đã thông báo, ông Đoàn Nguyên Đức, Chủ tịch CLB HAGL được chỉ định làm Trưởng đoàn bóng đá nam của Việt Nam tại SEA Games cuối năm nay. ĐTQG nữ cũng đang tìm một lãnh đội là một doanh nhân có tiềm lực kinh tế.\r\nBầu Đức là người có uy tín và giàu tiềm năng tài chính. Ảnh: Anh Tuấn\r\nGiải thích với VnExpress về quyết định trên, Chủ tịch Nguyễn Trọng Hỷ nói: Lãnh đạo Liên đoàn bóng đá châu Á và Đông Nam Á ủng hộ việc xã hội hóa bóng đá, mà việc đưa các doanh nghiệp vào hỗ trợ bóng đá là một phần quan trọng của nhiệm vụ này. Trên tinh thần đó, chúng tôi đi tìm và anh Đoàn Nguyên Đức đã đồng ý giúp đỡ phát triển bóng đá bằng việc trực tiếp tài trợ cũng như thu hút tài trợ cho các đội tuyển quốc gia Việt Nam. Điều đó sẽ giúp LĐBĐVN tháo gỡ bớt những khó khăn trong khâu vận động nguồn tài chính.\r\nTuy nhiên, khi VnExpress liên lạc với \"bầu\" Đức thì nhận được câu trả lời: \"Đúng là Liên đoàn bóng đá Việt Nam đã nhiều lần có lời mời nhưng tôi vẫn chưa quyết định. Tôi đang có nhiều việc bận. Và nếu có nhận lời làm trưởng đoàn bóng đá U23 tại SEA Games 23 thì tôi cũng không tài trợ cho đội số tiền theo dạng văn bản hợp đồng, mà chỉ đưa ra mức thưởng trước mỗi trận đấu của đội\".\r\nChủ tịch LĐBĐ VN, Nguyễn Trọng Hỷ, còn cho biết thêm, Liên đoàn bóng đá Việt Nam cũng đang mời một vài doanh nhân có tiềm lực kinh tế và uy tín làm lãnh đội cho đội tuyển quốc gia nữ dự SEA Games sắp tới. Trong thời gian tới, Liên đoàn sẽ công bố danh tính của nhân vật này.\r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKhLRntWc2ureYEI7a",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Philippines dời ngày tổ chức SEA Games 23 \r\nỦy ban Tổ chức SEA Games 2005 (Philsoc) vừa có phiên họp quyết định, Đại hội thể thao ĐNA năm tới diễn ra từ ngày 27/11 đến 5/12, thay vì từ 20 đến 30/11. Với lịch đấu mới, SEA Games sẽ tránh \"đụng độ\" với Đại hội thể thao trong nhà châu Á, ở Bangkok (Thái Lan) từ 12 đến 19/11. \r\nTheo Ủy ban Olympic Philippines, thời gian thi đấu được rút ngắn 2 ngày nhằm thực hiện chính sách cắt giảm chi phí cho các kỳ Đại hội thể thao khu vực. Với sự thay đổi này, SEA Games 23 sẽ chỉ diễn ra trong 9 ngày. SEA Games 22 tại Việt Nam kéo dài từ ngày 5 tới 13/12/2003. \r\nNhưng một lý do quan trọng hơn, với lịch thi đấu mới này, SEA Games sẽ tránh được cuộc \"đụng độ\" với Đại hội thể thao trong nhà châu Á tổ chức ở Bangkok (Thái Lan) từ 12 đến 19/11. Sẽ có 123 bộ huy chương của 9 môn thi đấu tại Asian Indoor Games: aerobics, điền kinh, xe đạp, khiêu vũ thể thao, bóng đá trong nhà, cầu mây, bơi lội, Muay Thai và thể thao mạo hiểm. \r\nTheo ông Nguyễn Hồng Minh, Vụ trưởng thể thao thành tích cao 1, Việt Nam sẽ cố gắng tham dự đủ cả hai Đại hội. Tuy nhiên, mục tiêu đề ra là lọt vào tốp 3 quốc gia dẫn đầu SEA Games 23. \r\nTrong cuộc họp vừa rồi, Ủy ban Olympic Philippines cũng thống nhất đệ trình lên Tổng thống Gloria Macapagal Arroyo công nhận ngày 5/12 sẽ là ngày nghỉ. Khi đó, người dân Philippines sẽ có 5 ngày nghỉ trong dịp SEA Games diễn ra. Ngày khai mạc SEA Games (27/11) là chủ nhật, 30/11: ngày Anh hùng quốc gia, 3/12: thứ bảy, 4/12: chủ nhật. \r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKhb69tWc2ureYEJeK",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Bóng đá nữ Malaysia không dự SEA Games 23\r\nUỷ ban Thể thao quốc gia Malaysia (NSC), hôm nay, ra thông báo sẽ không cử đội tuyển tham dự nội dung bóng đá nữ tại SEA Games cuối năm nay. Quyết định này được đưa ra sau khi đợt tập huấn tiền SEA Games của đội có kết quả quá tệ hại. \r\nĐội chỉ hoà 1-1 trước U19 Singapore, và thua 0-2 trước đội tuyển nữ quốc gia của đảo quốc sư tử trong chuyến tập huấn cuối tháng 9. Trước đó, dù giành chiến thắng 5-0 và 11-0 trước đội bóng nhỏ của trường quốc tế Kuala Lumpur tại Ampang và khu Liên hợp thể thao quốc gia Bukit Jalil, nhưng màn trình diễn của họ cũng bị đánh giá thấp. Chủ tịch NSC, ông Ramlan Abdul Aziz, cho biết các cầu thủ nữ quốc gia đã nhận được \"lệnh\" phải chiến thắng cả hai trận đấu ở Singapore, nếu muốn chơi ở SEA Games 23 vào cuối năm. Chúng tôi sẵn sàng tài trợ nếu họ có thể chiến thắng cả hai trận đấu đó. Nhưng một khi đã không thể làm được, thì chẳng có lý do gì lại đến tranh tài ở một giải đấu khó khăn hơn rất nhiều\", ông Ramlan cho biết. Chủ tịch Liên đoàn bóng đá nữ Malaysia, Tunku Dara Tunku Tan Sri Naquiah Tuanku Jaafar, Phó chủ tịch thứ nhất B. Rajeswari và HLV trưởng Tunku Ellie không ngạc nhiên khi nhận được thông tin này, và vui vẻ chấp nhận. \r\nĐội tuyển nữ Malaysia từng lọt vào bán kết ở SEA Games 22. Tại vòng bảng, Malaysia có 2 điểm, sau khi để thua chủ nhà Việt Nam, và thủ hoà hai trận hoà với Philippines và Indonesia. \r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            },
+            {
+                "_score": 8.651183,
+                "_type": "my_type",
+                "_id": "AWUKhrRDtWc2ureYEJ9E",
+                "_source": {
+                    "topic": "The thao",
+                    "article": "Việt Nam tham gia từ 28 đến 30 môn tại SEA Games 23\r\nHôm nay, Ủy ban Olympic Việt Nam đã thống nhất số môn thi đấu ở SEA Games 23, diễn ra tại Philippines vào năm 2005. Theo đó, Việt Nam dự kiến sẽ tham dự 28 - 30 môn thi đấu, cùng mục tiêu đứng thứ 3 toàn đoàn với 60 đến 70 HC vàng. \r\nSEA Games 23 đã lập kỷ lục về số môn thi đấu: 41 môn, và 388 bộ huy chương. Tuy nhiên, có nhiều môn Việt Nam không có ý định tham dự. Đầu tháng 12, ngoài các đội tuyển đã tập trung sẵn, các đội tuyển còn lại sẽ tập trung để chuẩn bị cho đại hội thể thao lớn nhất khu vực. Ủy ban Thể dục thể thao cũng đã lập xong danh sách 300 vận động viên (VĐV) xuất sắc. \r\nTheo mục tiêu của Việt Nam đề ra, 9 môn bắt buộc phải có ít nhất từ 3 - 7 HC vàng trở lên tại SEA Games 2005 là: bắn súng, vật, karatedo, taekwondo, pencak silat, wushu, judo, điền kinh, thể dục dụng cụ. Các môn đặt mục tiêu giành 1 - 2 HC vàng gồm: bóng đá (nam, nữ), thể hình, bơi, cử tạ, rowing, canoeing, billiard  snooker, cờ vua, đấu kiếm, boxing (nam, nữ), cầu mây, đua thuyền truyền thống, bóng bàn, xe đạp, bi sắt... Việt Nam cũng sẽ góp mặt ở 3 môn mới vừa được nước chủ nhà đưa vào thi đấu: võ gậy, khiêu vũ thể thao, và boxing nữ. \r\nCác môn dự kiến Việt Nam sẽ tham gia thi đấu tại SEA Games 23: bắn súng, vật, karatedo, taekwondo, pencak silat, wushu, judo, điền kinh, thể dục dụng cụ, bóng đá (nam, nữ), thể hình, bơi, cử tạ, rowing, canoeing, billiard - snooker, cờ vua, đấu kiếm, boxing (nam, nữ), cầu mây, đua thuyền truyền thống, bóng bàn, xe đạp, bi sắt, boxing, võ gậy, khiêu vũ thể thao. \r\n\r\n",
+                    "user": "Tran"
+                },
+                "_index": "icu_jvn_tokenizer"
+            }
+        ],
+        "total": 56,
+        "max_score": 10.556887
+    },
+    "_shards": {
+        "successful": 1,
+        "failed": 0,
+        "total": 1
+    },
+    "took": 2,
+    "timed_out": false
+}

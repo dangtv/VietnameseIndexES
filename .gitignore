@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+vietnamese-tokenizer-esplugin/.idea/
+python-elasticsearch/data/
+python-elasticsearch/data2/
+vietnamese-tokenizer-esplugin/target/
+vietnamese-jvnsegmenter-esplugin/.idea/
+vietnamese-jvnsegmenter-esplugin/target/

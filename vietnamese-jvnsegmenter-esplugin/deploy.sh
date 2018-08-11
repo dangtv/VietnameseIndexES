@@ -1,0 +1,1 @@
+scp -i ~/dangtv -r ../vietnamese-jvnsegmenter-esplugin/ dangubuntu@192.168.56.103:/home/dangubuntu/
