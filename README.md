@@ -47,7 +47,7 @@ Vietnamese text dataset is from [https://github.com/duyvuleo/VNTC](https://githu
     sudo /usr/share/elasticsearch/bin/elasticsearch-plugin remove vietnamese-tokenizer-esplugin
 ```
 
-## Python script of index document dataset
+## Python script of indexing document dataset
 
 - Create new index on ES
 
