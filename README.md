@@ -5,12 +5,9 @@
 In this repository, there are two Vietnamese Analysis plugins for integrating Vietnamese language analysis into Elasticsearch:
 
 - `vietnamese-tokenizer-esplugin`: based on the paper "A hybrid approach to word segmentation of Vietnamese texts"
-<!-- [https://github.com/duydo/elasticsearch-analysis-vietnamese/](https://github.com/duydo/elasticsearch-analysis-vietnamese/) -->
-
   - The plugin provides the `vn_analyzer` analyzer and `vn_tokenizer` tokenizer. The `vn_analyzer` is composed of the `vn_tokenizer` tokenizer, the `lowercase` and `stop` filter.
 
 - `vietnamese-jvnsegmenter-esplugin`: based on the paper "Vietnamese word segmentation with CRFs and SVMs: An investigation"
- <!-- [JVnSegmenter](http://jvnsegmenter.sourceforge.net) -->
   - The plugin provides the `jvn_analyzer` analyzer and `jvn_tokenizer` tokenizer. The `jvn_analyzer` is composed of the `jvn_tokenizer` tokenizer, the `lowercase` and `stop` filter.
 
 Vietnamese text dataset is from [https://github.com/duyvuleo/VNTC](https://github.com/duyvuleo/VNTC)
